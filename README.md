@@ -2,7 +2,7 @@
 **Molecular Docking · MD Simulations · Binding Free Energy · Trajectory Analysis**
 
 PhD-level in-silico drug discovery pipelines  
-Atul Kumar Singh | Cancer Signaling & CompBio  
+Atul Kumar Singh | Computational & Molecular Biology  
 GitHub: https://github.com/Atulsingh17
 
 ## Quick Overview
